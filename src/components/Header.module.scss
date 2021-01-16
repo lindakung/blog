@@ -11,7 +11,7 @@ header {
   z-index: 9;
   margin-left: auto;
   margin-right: auto;
-  height: 70px;
+  height: 10px;
 
   a {
     text-decoration: none;
@@ -75,7 +75,7 @@ header {
 @media (max-width: 1000px) {
   header {
     display: block;
-    height: 120px;
+    height: 10px;
   }
 
   nav {
